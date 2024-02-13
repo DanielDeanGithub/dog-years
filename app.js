@@ -3,3 +3,5 @@ const myAge = 100;
 
 // this variable will change
 let earlyYears = 2;
+
+earlyYears *= 10.5;
