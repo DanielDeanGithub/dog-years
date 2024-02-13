@@ -12,3 +12,6 @@ let laterYears = myAge - 2;
 laterYears *= 4;
 
 console.log(`Early Years: ${earlyYears}\nLater Years: ${laterYears} `);
+
+// Calculates age in dog years using previous variables
+const myAgeInDogYears = earlyYears + laterYears;
