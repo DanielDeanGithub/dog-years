@@ -18,3 +18,6 @@ const myAgeInDogYears = earlyYears + laterYears;
 
 // The toLowerCase method returns a string with all lowercase letters.
 const myName = "Daniel".toLowerCase();
+
+// Displays my name and age in dog years using string interpolation to display the values
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
