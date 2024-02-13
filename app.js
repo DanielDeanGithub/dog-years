@@ -10,3 +10,5 @@ let laterYears = myAge - 2;
 
 // Multiply the laterYears variable by 4 to calculate the number of dog years accounted for by later years.
 laterYears *= 4;
+
+console.log(`Early Years: ${earlyYears}\nLater Years: ${laterYears} `);
