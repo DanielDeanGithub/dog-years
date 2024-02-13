@@ -15,3 +15,6 @@ console.log(`Early Years: ${earlyYears}\nLater Years: ${laterYears} `);
 
 // Calculates age in dog years using previous variables
 const myAgeInDogYears = earlyYears + laterYears;
+
+// The toLowerCase method returns a string with all lowercase letters.
+const myName = "Daniel".toLowerCase();
